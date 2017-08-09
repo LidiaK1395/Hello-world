@@ -1,2 +1,3 @@
 # Hello-world
-JMP, nonparametric, bootstrap
+JMP, nonparametrics, bootstrap
+I'm a PhD student at PennState studying economics. 
